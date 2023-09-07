@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: continuous-delivery-application
+  annotations:
+    github.com/project-slug: losbjordal/continuous-delivery-application
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
